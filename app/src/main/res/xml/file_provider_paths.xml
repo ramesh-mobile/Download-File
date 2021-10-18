@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<paths>
+    <external-path name="Download" path="Download/"/>
+    <external-path name="external_files" path="."/>
+    <external-path name="Gigs_Project" path="Gigs Project/"/>
+</paths>

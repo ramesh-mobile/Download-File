@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Gigs File Download</string>
+    <string name="downloading_initializing">downloading initializing..</string>
+    <string name="file_downloaded">File Downloaded</string>
+    <string name="error_downloading">Error to Pdf download</string>
+    <string name="file_not_availble_error">File is not available on server</string>
+    <string name="file_is_downloading">Pdf file is downloading</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_not_available">"permission is not available"</string>
+
+</resources>
