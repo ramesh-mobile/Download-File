@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">Gigs File Download</string>
+    <string name="app_name">File Download App</string>
     <string name="downloading_initializing">downloading initializing..</string>
     <string name="file_downloaded">File Downloaded</string>
     <string name="error_downloading">Error to Pdf download</string>
